@@ -4,7 +4,12 @@
 
     <PropertyGroup>
         <Authors>mirage</Authors>
-        <Version>1.2.3</Version>
+        <Version>1.2.3_own</Version>
+        <PackageVersion>1.2.3-own</PackageVersion>
+        <AssemblyVersion>1.2.3.0</AssemblyVersion>
+        <FileVersion>1.2.3.0</FileVersion>
+        <InformationalVersion>1.2.3_own</InformationalVersion>
+        <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
         <Description>Duty timeline cues for mitigation and skill timing</Description>
         <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     </PropertyGroup>
